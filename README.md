@@ -55,7 +55,7 @@ Developer kristaps = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Dizmaures&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
 </div>
 
 ---
@@ -71,7 +71,7 @@ Developer kristaps = {
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DizmauresE&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dizmaures&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
