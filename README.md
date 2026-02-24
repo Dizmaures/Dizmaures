@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+HTML+%26+CSS+%7C+SQL+explorer;Data+Structures+%26+Algorithms+enthusiast;Building+one+commit+at+a+time+🚀;Tomato-free+since+birth+🍅❌)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=👁️+Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Dizmaures&color=blueviolet&style=flat-square&label=👁️+Profile+Views)
 
 </div>
 
@@ -49,8 +49,8 @@ Developer kristaps = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dizmaures&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizmaures&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -63,7 +63,7 @@ Developer kristaps = {
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dizmaures&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
 
 ---
@@ -71,7 +71,7 @@ Developer kristaps = {
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DizmauresE&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
