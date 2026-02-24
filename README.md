@@ -1,74 +1,96 @@
 <div align="center">
 
-<!-- TYPING ANIMATION — replace text with your own message -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kristaps+👋;Aspiring+Java+%2F+C%2B%2B+Developer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Hey,%20I'm%20Kristaps!%20👋&fontSize=42&fontColor=fff&fontAlignY=38&desc=Developer%20in%20the%20making%20%7C%20Based%20in%20Latvia%20🇱🇻&descAlignY=58&descSize=18"/>
 
-<!-- PROFILE VIEWS COUNTER -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+HTML+%26+CSS+%7C+SQL+explorer;Data+Structures+%26+Algorithms+enthusiast;Building+one+commit+at+a+time+🚀;Tomato-free+since+birth+🍅❌)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=👁️+Profile+Views)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 Currently learning **C++ / HTML & CSS / SQL**
-- 🌱 Exploring the world of **Data Structures & Algorithms**
-- 💬 Ask me about anything — I'm always happy to learn together
-- ⚡ Fun fact: *Dont like tomatoes*
-- 📫 Reach me at: **kristapsxzarins@gmail.com**
+### 🧑‍💻 About Me
+
+```cpp
+Developer kristaps = {
+  .location   = "Latvia 🇱🇻",
+  .learning   = { "C++", "HTML & CSS", "SQL" },
+  .exploring  = "Coding & Developing",
+  .fun_fact   = "Tomatoes? Hard pass. 🍅❌",
+  .open_to    = "Collaborations & new ideas"
+};
+```
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-<!-- SKILL BADGES — add/remove as needed from https://shields.io -->
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**Languages**
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<!-- STATS CARD — replace YOUR_USERNAME -->
-<img src="https://github-readme-stats.vercel.app/api?username=Dizmaures&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<!-- TOP LANGUAGES CARD -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
-<!-- STREAK STATS -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dizmaures&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dizmaures&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
 
 ---
 
-## 🤝 Connect With Me
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
+
+---
+
+### 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristaps-zarins-441425356/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kristapsxzarins@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristaps-zarins-441425356/)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_mail!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kristapsxzarins@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer"/>
+
+*"The expert in anything was once a beginner." — Helen Hayes*
+
 </div>
