@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING ANIMATION — replace text with your own message -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+[Your+Name]+👋;Aspiring+Java+%2F+C%2B%2B+Developer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+[Kristaps]+👋;Aspiring+Java+%2F+C%2B%2B+Developer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS COUNTER -->
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
