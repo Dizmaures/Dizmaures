@@ -15,7 +15,7 @@
 ### 🧑‍💻 About Me
 
 ```cpp
-Developer kristaps = {
+Developer Kristaps = {
   .location   = "Latvia 🇱🇻",
   .learning   = { "C++", "HTML & CSS", "SQL" },
   .exploring  = "Coding & Developing",
