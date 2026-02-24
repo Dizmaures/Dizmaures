@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING ANIMATION — replace text with your own message -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+[Kristaps]+👋;Aspiring+Java+%2F+C%2B%2B+Developer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kristaps+👋;Aspiring+Java+%2F+C%2B%2B+Developer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS COUNTER -->
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
@@ -36,7 +36,7 @@
 <div align="center">
 
 <!-- STATS CARD — replace YOUR_USERNAME -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dizmaures&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
 <!-- TOP LANGUAGES CARD -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
@@ -45,7 +45,7 @@
 
 <!-- STREAK STATS -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Dizmaures&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 ---
@@ -53,7 +53,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dizmaures&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
