@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Hey,%20I'm%20Kristaps!%20👋&fontSize=42&fontColor=fff&fontAlignY=38&desc=Developer%20in%20the%20making%20%7C%20Based%20in%20Latvia%20🇱🇻&descAlignY=58&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+HTML+%26+CSS+%7C+SQL+explorer;Data+Structures+%26+Algorithms+enthusiast;Building+one+commit+at+a+time+🚀;Tomato-free+since+birth+🍅❌)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+HTML+%26+CSS+%7C+SQL+explorer;Programming+%26+Web/App+26%+Web+26%+Development+enthusiast;Building+one+commit+at+a+time+🚀;Tomato-free+since+birth+🍅❌)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dizmaures&color=blueviolet&style=flat-square&label=👁️+Profile+Views)
 
