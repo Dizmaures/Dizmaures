@@ -65,7 +65,7 @@ Developer Kristaps = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristaps-zarins-441425356/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristapsxzarins/)
 [![Gmail](https://img.shields.io/badge/Gmail-Drop_a_mail!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kristapsxzarins@gmail.com)
 
 </div>
